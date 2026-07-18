@@ -25,4 +25,4 @@ This project was built by:
 ### Steps
 -Download or clone this repository (t4g-cohort5-guessing-game).
 -Open the project folder in your terminal.
--Run the Python file (game.py) by entering python3 game.py.
+-Run the Python file (game.py) by entering python3 game.py
