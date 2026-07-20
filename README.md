@@ -1,8 +1,8 @@
 # Number Guessing Game
 
 ## Project Description
-The Number Guseeing Game is a python project where the computer randomly selects a secret number between 1 and 100, and the players tries to guess the correct number.
-The program or game gives hint by informing the player whether their guess is too high or too low. It also tracks the number of attempts mad and allows the player to replay the game after successfully guessing the number.
+The Number Guessing Game is a python project where the computer randomly selects a secret number between 1 and 100, and the players tries to guess the correct number.
+The program or game gives hint by informing the player whether their guess is too high or too low. It also tracks the number of attempts made and allows the player to replay the game after successfully guessing the number.
 
 ## Team Members
 This project was built by:
@@ -19,7 +19,7 @@ This project was built by:
 
 ## How to run the projects
 ### Requirements
--Python 3 installd
+-Python 3 installed
 -A code editor or terminal to run the program.
 
 ### Steps
